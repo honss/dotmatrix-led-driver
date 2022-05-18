@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>1787844623</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_timer.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main\max7129.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\random\rtcdriver.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_csen.o</file>
+            <file>$PROJ_DIR$\..\inc\em_bus.h</file>
+            <file>$PROJ_DIR$\..\inc\em_emu.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main\em_dma.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_compiler.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\inc\em_opamp.h</file>
+            <file>$PROJ_DIR$\emdrv\dmadrv\inc\dmadrv.h</file>
+            <file>$PROJ_DIR$\..\inc\em_aes.h</file>
+            <file>$PROJ_DIR$\random crap\dmadrv_config.h</file>
+            <file>$PROJ_DIR$\..\inc\em_ebi.h</file>
+            <file>$PROJ_DIR$\..\inc\em_rtcc.h</file>
+            <file>$PROJ_DIR$\..\inc\em_leuart.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\intrinsics.h</file>
+            <file>$PROJ_DIR$\emdrv\spidrv\src\spidrv.c</file>
+            <file>$PROJ_DIR$\..\inc\em_can.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_i2c.o</file>
+            <file>$PROJ_DIR$\random crap\rtcdrv_config.h</file>
+            <file>$PROJ_DIR$\..\inc\em_i2c.h</file>
+            <file>$PROJ_DIR$\..\inc\em_usart.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\random\sleep.o</file>
+            <file>$PROJ_DIR$\random crap\spidrv.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\max7129.h</file>
+            <file>$PROJ_DIR$\random crap\sleep.h</file>
+            <file>$PROJ_DIR$\emdrv\dmadrv\src\dmadrv.c</file>
+            <file>$PROJ_DIR$\..\inc\em_assert.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_cmu.o</file>
+            <file>$PROJ_DIR$\emdrv\common\inc\ecode.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_lesense.o</file>
+            <file>$PROJ_DIR$\random crap\spidrv.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_letimer.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main\bsp.o</file>
+            <file>$PROJ_DIR$\..\inc\em_idac.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\core_cm0plus.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_wdog.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\random crap\rtcdriver.c</file>
+            <file>$PROJ_DIR$\..\inc\em_dbg.h</file>
+            <file>$PROJ_DIR$\..\inc\em_system.h</file>
+            <file>$PROJ_DIR$\random crap\rtcdriver.h</file>
+            <file>$PROJ_DIR$\..\inc\em_adc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_int.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_pcnt.o</file>
+            <file>$PROJ_DIR$\..\inc\em_gpio.h</file>
+            <file>$PROJ_DIR$\random crap\sleep.c</file>
+            <file>$PROJ_DIR$\random crap\spidrv_config.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_core.o</file>
+            <file>$PROJ_DIR$\..\inc\em_cryotimer.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_opamp.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\float.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_mpu.o</file>
+            <file>$PROJ_DIR$\..\inc\em_dac.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_gpio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_dbg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_rtc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\main\main.o</file>
+            <file>$PROJ_DIR$\..\inc\em_prs.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\emdrv\src\dmadrv.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_qspi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_msc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_aes.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\emdrv\src\spidrv.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_leuart.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_emu.o</file>
+            <file>$PROJ_DIR$\..\inc\em_ramfunc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_assert.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+            <file>$PROJ_DIR$\..\inc\em_vdac.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main\startup_efm32.o</file>
+            <file>$PROJ_DIR$\..\inc\em_dma.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_cryotimer.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_burtc.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\doom.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_can.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\random\spidrv.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Include\startup_efm32.o</file>
+            <file>$PROJ_DIR$\..\inc\em_vcmp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_rmu.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_prs.o</file>
+            <file>$PROJ_DIR$\..\inc\em_gpcrc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_system.o</file>
+            <file>$PROJ_DIR$\..\inc\em_int.h</file>
+            <file>$PROJ_DIR$\..\inc\em_common.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_lcd.o</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_dac.o</file>
+            <file>$TOOLKIT_DIR$\config\linker\SiliconLaboratories\EFM32ZG222F32.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\..\inc\em_lcd.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_rtc.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_dma.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_gpio_p.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_rmu.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_prs_signals.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_timer.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_usart.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_gpio.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_dmareq.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_i2c.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_pcnt.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_timer_cc.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_adc.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_vcmp.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_wdog.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_msc.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg222f32.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_dma_ch.h</file>
+            <file>$PROJ_DIR$\Include\em_device.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_dmactrl.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_af_ports.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_cmu.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_dma_descriptor.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_devinfo.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_emu.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_acmp.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_idac.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_leuart.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_prs.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_aes.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_af_pins.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_prs_ch.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_calibrate.h</file>
+            <file>$PROJ_DIR$\Include\efm32zg_romtable.h</file>
+            <file>$PROJ_DIR$\Include\system_efm32zg.h</file>
+            <file>$PROJ_DIR$\src\em_dbg.c</file>
+            <file>$PROJ_DIR$\src\em_leuart.c</file>
+            <file>$PROJ_DIR$\src\em_cryotimer.c</file>
+            <file>$PROJ_DIR$\src\em_lcd.c</file>
+            <file>$PROJ_DIR$\src\em_letimer.c</file>
+            <file>$PROJ_DIR$\max7129.c</file>
+            <file>$PROJ_DIR$\src\em_aes.c</file>
+            <file>$PROJ_DIR$\src\em_ldma.c</file>
+            <file>$PROJ_DIR$\src\em_pcnt.c</file>
+            <file>$PROJ_DIR$\src\em_prs.c</file>
+            <file>$PROJ_DIR$\src\em_rmu.c</file>
+            <file>$PROJ_DIR$\src\em_burtc.c</file>
+            <file>$PROJ_DIR$\src\em_cmu.c</file>
+            <file>$PROJ_DIR$\src\em_rtcc.c</file>
+            <file>$PROJ_DIR$\src\em_emu.c</file>
+            <file>$PROJ_DIR$\src\em_dma.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\src\em_assert.c</file>
+            <file>$PROJ_DIR$\bsp.c</file>
+            <file>$PROJ_DIR$\system_efm32zg.c</file>
+            <file>$PROJ_DIR$\src\em_gpcrc.c</file>
+            <file>$PROJ_DIR$\src\em_lesense.c</file>
+            <file>$PROJ_DIR$\src\em_msc.c</file>
+            <file>$PROJ_DIR$\src\em_rtc.c</file>
+            <file>$PROJ_DIR$\src\em_system.c</file>
+            <file>$PROJ_DIR$\src\em_opamp.c</file>
+            <file>$PROJ_DIR$\startup_efm32.c</file>
+            <file>$PROJ_DIR$\src\em_qspi.c</file>
+            <file>$PROJ_DIR$\src\em_timer.c</file>
+            <file>$PROJ_DIR$\src\em_acmp.c</file>
+            <file>$PROJ_DIR$\src\em_ebi.c</file>
+            <file>$PROJ_DIR$\src\em_usart.c</file>
+            <file>$PROJ_DIR$\src\em_csen.c</file>
+            <file>$PROJ_DIR$\src\em_crypto.c</file>
+            <file>$PROJ_DIR$\src\em_dac.c</file>
+            <file>$PROJ_DIR$\src\em_idac.c</file>
+            <file>$PROJ_DIR$\src\em_int.c</file>
+            <file>$PROJ_DIR$\bsp.h</file>
+            <file>$PROJ_DIR$\src\em_i2c.c</file>
+            <file>$PROJ_DIR$\src\em_mpu.c</file>
+            <file>$PROJ_DIR$\src\em_gpio.c</file>
+            <file>$PROJ_DIR$\src\em_adc.c</file>
+            <file>$PROJ_DIR$\src\em_can.c</file>
+            <file>$PROJ_DIR$\src\em_core.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_vdac.o</file>
+            <file>$PROJ_DIR$\..\inc\em_acmp.h</file>
+            <file>$PROJ_DIR$\..\inc\em_csen.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_crypto.o</file>
+            <file>$PROJ_DIR$\..\inc\em_msc.h</file>
+            <file>$PROJ_DIR$\..\inc\em_letimer.h</file>
+            <file>$PROJ_DIR$\src\em_vcmp.c</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_vcmp.o</file>
+            <file>$PROJ_DIR$\..\inc\em_cmu.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\DSP\Include\arm_math.h</file>
+            <file>$PROJ_DIR$\..\inc\em_burtc.h</file>
+            <file>$PROJ_DIR$\..\inc\em_qspi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main\system_efm32zg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_rtcc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_ldma.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+            <file>$PROJ_DIR$\..\inc\em_ldma.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_ebi.o</file>
+            <file>$PROJ_DIR$\..\inc\em_chip.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_iccarm.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\..\inc\em_lesense.h</file>
+            <file>$PROJ_DIR$\..\inc\em_core.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iar_intrinsics_common.h</file>
+            <file>$PROJ_DIR$\..\inc\em_rtc.h</file>
+            <file>$PROJ_DIR$\src\em_vdac.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\..\inc\em_timer.h</file>
+            <file>$PROJ_DIR$\..\inc\em_pcnt.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\inc\em_wdog.h</file>
+            <file>$PROJ_DIR$\src\em_wdog.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$PROJ_DIR$\..\inc\em_rmu.h</file>
+            <file>$PROJ_DIR$\..\inc\em_mpu.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_usart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_gpcrc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_idac.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_acmp.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\em_adc.o</file>
+            <file>$PROJ_DIR$\Debug\List\doom.map</file>
+            <file>$PROJ_DIR$\Include\startup_efm32.c</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 83 224</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\emdrv\spidrv\src\spidrv.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 33 11 13 45 22 35 51 31 4 189 94 206 80 49 24 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 210 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\random crap\spidrv.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 33 11 13 45 22 35 51 31 4 189 94 206 80 49 24 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 210 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\emdrv\dmadrv\src\dmadrv.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 33 11 13 31 4 189 94 206 80 208 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 196 7 210 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\random crap\rtcdriver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 33 45 22 31 4 189 94 206 208 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\random crap\sleep.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 29 31 4 94 206 5 217 8 203 187 39 190 71 9 213 99 27 216 64 56 77 204 55 7 88 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\doom.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 224</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 37 6 62 1 79 193 222 223 68 76 82 84 32 52 81 183 3 97 60 199 73 220 59 21 221 47 95 195 34 36 70 57 67 54 48 90 66 89 61 194 92 0 219 188 180 40 98 197 96 202 201</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_dbg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 43 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_leuart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 16 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_cryotimer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 4 53 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_lcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 100 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_letimer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 185 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\max7129.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 1</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 173 28 31 4 200 189 80 49 212 208 44 24 8 203 187 39 190 71 9 213 27 216 207 64 17 56 77 204 55 7 210 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_aes.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 12 31 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_ldma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 195</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 198 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_pcnt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 212 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_prs.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 63 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_rmu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 94 5 217 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_burtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 191 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_cmu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 94 5 44 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 196 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_rtcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 194</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 15 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_emu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 94 206 5 74 44 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 80 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 210 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 173 28 31 4 200 189 80 49 212 208 44 24 8 203 187 39 190 71 9 213 27 216 207 64 17 56 77 204 55 7 210 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31 55</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\bsp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 173 28 31 4 200 189 80 49 212 208 44 24 8 203 187 39 190 71 9 213 27 216 207 64 17 56 77 204 55 7 210 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system_efm32zg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 193</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_gpcrc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 220</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 94 91 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_lesense.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 205 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_msc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 184 74 44 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 208 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_system.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 44 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 196 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_opamp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 10 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup_efm32.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_qspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 192 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_timer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 0</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 211 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_acmp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 222</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 181 31 4 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_ebi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 199</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 14 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 219</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 24 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_csen.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 182 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_crypto.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 183</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_dac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 58 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_idac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 221</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 38 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_int.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 93 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 21</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 189 23 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_mpu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 218 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 49 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 223</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 46 31 4 189 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 196 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_can.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 4 19 189 94 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 196 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_core.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 94 206 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_vcmp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 188</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 31 87 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_vdac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 180</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 78 8 203 187 39 190 71 9 213 27 216 64 56 77 204 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\em_wdog.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117 126 113 130 131 121 133 122 124 102 118 123 120 109 125 108 103 110 127 128 116 111 129 132 105 104 134 101 106 112 107 114 115 119 135 4 214 8 203 187 39 190 71 9 213 27 216 64 56 77 204 55 7 41 75 72 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Include\startup_efm32.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 86 79</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\emdrv\spidrv\src\spidrv.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\emdrv\dmadrv\src\dmadrv.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_dbg.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_leuart.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_cryotimer.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_lcd.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_letimer.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_aes.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_ldma.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_pcnt.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_prs.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_rmu.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_burtc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_cmu.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_rtcc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_emu.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_dma.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\main.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_assert.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\bsp.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\system_efm32zg.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_gpcrc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_lesense.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_msc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_rtc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_system.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_opamp.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\startup_efm32.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_qspi.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_timer.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_acmp.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_ebi.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_usart.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_csen.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_crypto.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_dac.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_idac.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_int.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_i2c.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_mpu.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_gpio.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_adc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_can.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_core.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_vcmp.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_vdac.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\src\em_wdog.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

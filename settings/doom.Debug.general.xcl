@@ -1,0 +1,15 @@
+"D:\Programs\EWARM\arm\bin\armPROC.dll" 
+
+"D:\Programs\EWARM\arm\bin\armJLINK.dll" 
+
+"C:\Users\Aidan\Documents\efm32\Gravity\Debug\Exe\doom.out" 
+
+--plugin="D:\Programs\EWARM\arm\bin\armbat.dll" 
+
+--device_macro="D:\Programs\EWARM\arm\config\debugger\SiliconLaboratories\Gecko_AAPv1.dmac" 
+
+--flash_loader="D:\Programs\EWARM\arm\config\flashloader\SiliconLaboratories\FlashEFM32M0P.board" 
+
+
+
+
